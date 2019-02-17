@@ -1,0 +1,7 @@
+-   id: pyment
+    name: pyment
+    entry: pyment
+    language: python
+    types: [python]
+    args: ["-w"]
+    additional_dependencies: []
